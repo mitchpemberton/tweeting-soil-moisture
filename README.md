@@ -3,8 +3,8 @@ A soil moisture meter that tweets status in order to predict when mountain bikin
 
 |FONA Pin       | Remote End  
 | ------------- |-------------
-| RST | right-aligned
-| Power | centered
+| RST |
+| Power | 
 
 
 |RPI-Zero-W Pin | Remote End  
