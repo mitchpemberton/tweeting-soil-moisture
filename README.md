@@ -1,9 +1,10 @@
 # tweeting-soil-moisture
 A soil moisture meter that tweets status in order to predict when mountain biking is possible
-|FONA Pin        | Remote End  
+
+|FONA Pin       | Remote End  
 | ------------- |-------------
-| col 3 is      | right-aligned
-| col 2 is      | centered
+| RST | right-aligned
+| Power | centered
 
 
 |RPI-Zero-W Pin | Remote End  
